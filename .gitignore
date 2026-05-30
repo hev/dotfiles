@@ -1,0 +1,9 @@
+# Local secrets file - contains API keys, tokens, etc.
+secrets.local
+__pycache__/
+
+# Git worktrees for Claude sessions
+.worktrees/
+
+# Claude session traces
+.claude/traces/
